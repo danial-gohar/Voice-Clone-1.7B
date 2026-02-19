@@ -8,7 +8,7 @@ Welcome to my collection of Google Colab notebooks for various AI tools. This re
 
 | Notebook Name | Description | Link |
 | :--- | :--- | :--- |
-| **MOSS-TTS 1.7B** | Zero-Shot Voice Cloning & TTS. Optimized for Colab Free Tier. | [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="28" alt="Open In Colab"/>](https://colab.research.google.com/github/danial-gohar/Voice-Clone-1.7B/blob/main/notebooks/moss_tts_danial_gohar.ipynb) |
+| **MOSS-TTS 1.7B** | Zero-Shot Voice Cloning & TTS. Optimized for Colab Free Tier. | [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="28" alt="Open In Colab"/>](https://colab.research.google.com/github/danial-gohar/Voice-Clone-1.7B/blob/main/moss_tts_danial_gohar.ipynb) |
 
 ## How to use
 
